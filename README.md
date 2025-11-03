@@ -3,10 +3,10 @@ c스터디 과제 공지 및 제출을 위한 레포입니다.
 ---
 
 # 과제 제출 방법
-## 1. `git checkout -b (NAME)`으로 자신의 브랜치를 생성합니다
-## 2. 밑에 명시되있는 세부 구현 기능의 세부 기능별로 git commit 및 git push를 합니다.
-## 3. git commit message는 컨벤션을 지켜야합니다
-## 4. 과제를 완성하면 pull request를 합니다
+#### 1. `git checkout -b (NAME)`으로 자신의 브랜치를 생성합니다
+#### 2. 밑에 명시되있는 세부 구현 기능의 세부 기능별로 git commit 및 git push를 합니다.
+#### 3. git commit message는 컨벤션을 지켜야합니다
+#### 4. 과제를 완성하면 pull request를 합니다
 
 ---
 ## 과제
