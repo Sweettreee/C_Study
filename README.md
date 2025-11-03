@@ -6,7 +6,7 @@ c스터디 과제 공지 및 제출을 위한 레포입니다.
 #### `https://m.blog.naver.com/coding-abc/222487705914`, 이 블로그를 기반으로 제작한 과제입니다 모르면 찾아보고 빠르게 익히는게 좋다고 생각해요! 참고해주세요
 ---
 # 과제 제출 방법
-#### 참고 `https://jtm0609.tistory.com/145`을 참고해서 `<type>(<scope>): <subject>` 의 형식으로 작성해주세요
+#### 참고 `https://jtm0609.tistory.com/145`을 참고해서 `<type>: <subject>` 의 형식으로 작성해주세요
 #### 1. `git checkout -b (NAME)`으로 자신의 브랜치를 생성합니다
 #### 2. 밑에 명시되있는 세부 구현 기능의 세부 기능별로 `git commit` 및 `git push`를 합니다.
 #### 3. `git commit message`는 `컨벤션`을 지켜야합니다
